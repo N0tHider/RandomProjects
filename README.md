@@ -7,7 +7,7 @@
     <i>HTML · CSS · JavaScript</i> 
 </p>
 
-These projects are small things that I programmed to make things easier in my day to day, and I'm making them available in case anyone wants to use them.
+These projects are small things that I programmed to make things easier in my day to day, and I'm making them available in case anyone wants to use.
 
 ## ***Information for each project:***<br>
 ### [GmodAutoOpen]
