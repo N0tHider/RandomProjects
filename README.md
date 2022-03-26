@@ -1,5 +1,5 @@
 <p align="center">
-    # RandomProjects
+    <h1><b>Random Projects</b></h1>
 </p>
 
 These projects are small things that I programmed to make things easier in my day to day, and I'm making them available in case anyone wants to use them.
