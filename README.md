@@ -12,4 +12,4 @@ These projects are small things that I programmed to make things easier in my da
 
 <h2><em><strong>Information for each project:</strong></em></h2>
 <h3>[GmodAutoOpen]</h3>
-```- When you write the directory, don't put "hl2.exe" at the end. Just indicate the folder the .exe is in.```
+<code>- When you write the directory, don't put "hl2.exe" at the end. Just indicate the folder the .exe is in.</code>
